@@ -158,6 +158,8 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
+DataStructures/Debug
+Debug
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -173,6 +175,7 @@ UpgradeLog*.htm
 # SQL Server files
 *.mdf
 *.ldf
+*.sdf
 
 # Business Intelligence projects
 *.rdl.data
